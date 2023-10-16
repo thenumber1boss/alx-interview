@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-Calculates minimum number of operations required
+Calculated minimum number of operations required
 '''
 
 
