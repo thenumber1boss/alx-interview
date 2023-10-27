@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''UTF-* validation module
+'''This is a UTF-* validation module
 '''
 
 
