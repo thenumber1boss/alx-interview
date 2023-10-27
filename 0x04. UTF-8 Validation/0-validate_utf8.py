@@ -2,7 +2,6 @@
 '''This is a UTF-* validation module
 '''
 
-
 def validUTF8(data):
     skip = 0
     n = len(data)
